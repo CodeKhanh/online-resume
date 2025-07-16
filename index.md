@@ -45,10 +45,7 @@ May 2025 – Present
   reviews, and mentorship with NASA engineers and scientists.
 
 - Collaborated with engineering subteams to design a CAD model for seamless
-  interfacing between the science payload and other spacecraft subsystems.
-
-- Interfaced with the engineering subteams to produce a CAD model that
-  allows for the onterfacing of the science payload with other subsystems
+  interfacing between the science payload and other spacecraft subsystems
 
 - Developed project planning and scientific communication skills while
   incorporating biological data into mission design strategies
