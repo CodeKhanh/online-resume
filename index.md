@@ -41,12 +41,12 @@ Office Suite
 Present
 
 - Collaborated with interdisciplinary teams to develop mission proposals
-  as the team astrobiologist
+  for mars exploration as the team astrobiologist
 
-- Engaged in NASA-led seminars, technical design reviews, and mentorship
+- Engaged in NASA-led seminars, technical design reviews,and mentorship
   sessions with engineers and scientists
 
-- Gained experience in project planning, scientific communication, and
+- Gained experience in project planning, scientific communication,
   integration of biological data into mission design
 
 ***Research and Development Intern***, **Rayn Innovations** Jul 2024 –
