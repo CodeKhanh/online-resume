@@ -37,17 +37,21 @@ Office Suite
 
 **EXPERIENCE**
 
-***Participant*, NASA L’SPACE Mission Concept Academy** May 2025 –
-Present
+***Participant- Astrobiologist*, NASA L’SPACE Mission Concept Academy** 
+May 2025 – Present
 
-- Collaborated with interdisciplinary teams to develop mission proposals
-  for mars exploration as the team astrobiologist
+- Participated in a virtual NASA workforce preparation academy focused
+  on space mission concept formulation, engaging in seminars, design
+  reviews, and mentorship with NASA engineers and scientists.
 
-- Engaged in NASA-led seminars, technical design reviews,and mentorship
-  sessions with engineers and scientists
+- Collaborated with engineering subteams to design a CAD model for seamless
+  interfacing between the science payload and other spacecraft subsystems.
 
-- Gained experience in project planning, scientific communication,
-  integration of biological data into mission design
+- Interfaced with the engineering subteams to produce a CAD model that
+  allows for the onterfacing of the science payload with other subsystems
+
+- Developed project planning and scientific communication skills while
+  incorporating biological data into mission design strategies
 
 ***Research and Development Intern***, **Rayn Innovations** Jul 2024 –
 Present
