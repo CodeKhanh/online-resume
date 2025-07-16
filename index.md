@@ -40,9 +40,9 @@ Office Suite
 ***Participant- Astrobiologist*, NASA L’SPACE Mission Concept Academy** 
 May 2025 – Present
 
-- Participated in a virtual NASA workforce preparation academy focused
-  on space mission concept formulation, engaging in seminars, design
-  reviews, and mentorship with NASA engineers and scientists
+- Participated in a virtual NASA workforce preparation academy with a
+  focus in teaching space mission concept formulation, engaging in seminars,
+  design reviews, and mentorship with NASA engineers and scientists
 
 - Collaborated with engineering subteams to design a CAD model for seamless
   interfacing between the science payload and other spacecraft subsystems
