@@ -55,13 +55,13 @@ Present
 
 - Researched permalloy thin film materials (PDA seed layers, AZO, and
   ferrite films) for solar cell applications, including
-  electrodeposition and electroless aqueous methods.
+  electrodeposition and electroless aqueous methods
 
 - Performed laboratory analysis, quality control checks, and calibration
-  procedures to maintain data integrity and accuracy.
+  procedures to maintain data integrity and accuracy
 
 - Analyzed experimental data and provided technical reports on solar
-  energy applications.
+  energy applications
 
 **Community Service**
 
@@ -69,23 +69,23 @@ Present
 
 - Led efforts to organize and identify medical supplies for shipment,
   including repairing damaged devices to ensure functionality and
-  readiness for delivery.
+  readiness for delivery
 
 - Collaborated with a diverse team to identify areas of improvement and
-  efficiently provide sustainable solutions.
+  efficiently provide sustainable solutions
 
 - Gained experience in global healthcare and nonprofit sector challenges
-  while demonstrating leadership in managing large teams effectively.
+  while demonstrating leadership in managing large teams effectively
 
 ***Research Student*, Mosquito Biology Research** Aug 2023 – Dec 2023
 
 - Conducted fitness and density studies on live *Aedes aegypti*
   mosquitoes, analyzing genetic and phenotypic traits under the
-  supervision of Dr. Silvie Huijben.
+  supervision of Dr. Silvie Huijben
 
 - Performed daily mosquito larval rearing from first instar to adults
   while simultaneously assessing the mortality and sex of over 1000
-  mosquitoes.
+  mosquitoes
 
 - Presented research findings to peers and faculty, highlighting strong
-  scientific communication abilities.
+  scientific communication abilities
