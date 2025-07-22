@@ -21,7 +21,7 @@ analysis, and cross-functional collaboration.
 
 **Relevant Coursework:** Anatomy, Programming for Biologists,
 Biophysical Chemistry, Biochemistry, Cancer Biology, Organic Chemistry,
-Physics, Chemistry, Physical Chemistry
+Physics, Chemistry, Physical Chemistry, Biology, Statistics
 
 **SKILLS**
 
@@ -41,8 +41,9 @@ Office Suite
 May 2025 – Present
 
 - Participated in a virtual NASA workforce preparation academy with a
-  focus in teaching space mission concept formulation, engaging in seminars,
-  design reviews, and mentorship with NASA engineers and scientists
+  focus in understanding space mission concept formulation, engaging in
+  seminars, design reviews, and participating in a mentorship with NASA
+  engineers and scientists
 
 - Collaborated with engineering subteams to design a CAD model for seamless
   interfacing between the science payload and other spacecraft subsystems
@@ -65,19 +66,20 @@ Present
 
 **Community Service**
 
-***Volunteer*, Project Cure** May 2023 – Jul 2024
+***Volunteer Intern*, Project Cure** May 2023 – Jul 2024
 
-- Led efforts to organize and identify medical supplies for shipment,
-  including repairing damaged devices to ensure functionality and
-  readiness for delivery
+- Led efforts to organize and identify large quantities of medical supplies
+  for shipment, including repairing damaged devices to ensure functionality
+  and readiness for delivery, to third world countries
 
 - Collaborated with a diverse team to identify areas of improvement and
   efficiently provide sustainable solutions
 
 - Gained experience in global healthcare and nonprofit sector challenges
-  while demonstrating leadership in managing large teams effectively
+  while demonstrating leadership in managing large teams of new volunteers
+  effectively
 
-***Research Student*, Mosquito Biology Research** Aug 2023 – Dec 2023
+***ASU Research Student*, Mosquito Biology Research** Aug 2023 – Dec 2023
 
 - Conducted fitness and density studies on live *Aedes aegypti*
   mosquitoes, analyzing genetic and phenotypic traits under the
@@ -87,5 +89,5 @@ Present
   while simultaneously assessing the mortality and sex of over 1000
   mosquitoes
 
-- Presented research findings to peers and faculty, highlighting strong
-  scientific communication abilities
+- Presented research findings to peers and faculty, using strong
+  scientific communication and data analysis abilities 
