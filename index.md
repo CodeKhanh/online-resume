@@ -79,7 +79,8 @@ Present
   while demonstrating leadership in managing large teams of new volunteers
   effectively
 
-***ASU Research Student*, Mosquito Biology Research** Aug 2023 – Dec 2023
+***Mosquito Biology Research Student*, Arizona State University** Aug 2023 – 
+Dec 2023
 
 - Conducted fitness and density studies on live *Aedes aegypti*
   mosquitoes, analyzing genetic and phenotypic traits under the
