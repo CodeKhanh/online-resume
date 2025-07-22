@@ -82,13 +82,14 @@ Present
 ***Mosquito Biology Research Student*, Arizona State University** Aug 2023 – 
 Dec 2023
 
-- Conducted fitness and density studies on live *Aedes aegypti*
-  mosquitoes, analyzing genetic and phenotypic traits under the
-  supervision of Dr. Silvie Huijben
+- Performed fitness and population density experiments on live Aedes aegypti
+  mosquitoes to assess the impact of V1016I and F1534C mutations, analyzing
+  associated genetic and phenotypic traits under Dr. Silvie Huijben's
+  supervision
 
 - Performed daily mosquito larval rearing from first instar to adults
   while simultaneously assessing the mortality and sex of over 1000
-  mosquitoes
+  mosquitoes to thoroughly record in a scientific journal
 
 - Presented research findings to peers and faculty, using strong
   scientific communication and data analysis abilities 
