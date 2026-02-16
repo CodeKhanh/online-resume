@@ -17,7 +17,7 @@ analysis, and cross-functional collaboration.
 **B.S., Biochemistry**, Arizona State University, Tempe, AZ May 2026
 (expected)
 
-**GPA:** 3.79
+**GPA:** 3.74
 
 **Relevant Coursework:** Anatomy, Programming for Biologists,
 Biophysical Chemistry, Biochemistry, Cancer Biology, Organic Chemistry,
@@ -93,3 +93,4 @@ Dec 2023
 
 - Presented research findings to peers and faculty, using strong
   scientific communication and data analysis abilities 
+
